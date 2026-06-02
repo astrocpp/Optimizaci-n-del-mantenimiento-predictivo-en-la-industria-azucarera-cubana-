@@ -1,7 +1,7 @@
 Optimización del Mantenimiento Predictivo en la Industria Azucarera Cubana mediante Aprendizaje Automático ante la Escasez de Repuestos y Combustibles
-Autores: Estudiantes de 2do Año de Ingeniería Informática
-Institución: Universidad de Ciencias Informáticas (UCI), Cuba
-Asignatura: Aprendizaje Automático y Minería de Datos
+Autor: Addel Vidal Garcia
+Institución: Universidad de Oriente, Cuba
+Asignatura: Inteligencia Artificial II
 Fecha: Junio 2026
 Resumen
 La industria azucarera cubana enfrenta desafíos críticos debido a la escasez de repuestos y la calidad variable del combustible, lo que incrementa el riesgo de fallas inesperadas en equipos críticos durante la zafra. Este trabajo presenta un sistema de mantenimiento predictivo basado en aprendizaje automático supervisado que utiliza el algoritmo Random Forest para predecir la probabilidad de fallas en equipos azucareros. El modelo incorpora 9 características que incluyen variables de sensores (temperatura, vibración, horas de operación) y factores contextuales específicos del entorno cubano (disponibilidad de repuestos, calidad del combustible, edad de equipos). Los resultados demuestran una precisión superior al 85% en la detección de fallas potenciales, permitiendo una transición del mantenimiento correctivo al preventivo, optimizando así el uso de recursos limitados y reduciendo los tiempos de inactividad no planificados.
